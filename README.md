@@ -24,11 +24,11 @@
 2. 每篇文章均需以另一个Markdown文档的形式放在link文件夹下，命名格式为0000 ~ FFFF依次按序命名
 3. 每篇文章更新后需要同步更新本博客目录（要求使用超链接）
 4. 每篇文章必须按照Markdown格式编写
-		* Win Markdown推荐工具：Cmd Markdown
-		* Mac Markdown推荐工具：Mou / Cmd Markdown
-		* Linux Markdown推荐工具：Cmd Markdown
-		* 全平台推荐工具： Sublime + 插件 / Cmd Markdown
-		* Web Markdown推荐工具：简书、Cmd Markdown、github
+	* Win Markdown推荐工具：Cmd Markdown
+	* Mac Markdown推荐工具：Mou / Cmd Markdown
+	* Linux Markdown推荐工具：Cmd Markdown
+	* 全平台推荐工具： Sublime + 插件 / Cmd Markdown
+	* Web Markdown推荐工具：简书、Cmd Markdown、github
 5. 每篇文章完成编写后需要进行Pull Requst，且Commit信息不能为空
 
 ## 共享博客作者名单
