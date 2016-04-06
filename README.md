@@ -1,10 +1,11 @@
 # 计算机网络技术共享博客（每周三、周六更新）
 ## 目录
 ####Seahub分目录
-1. [Ariticle 0000 - IPv4](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0000.md)
+1. [Article 0000 - IPv4](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0000.md)
+2. [Article 0002 - REST API互联网软件架构](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0002.md)
 
 ####Samray分目录
-1. [Ariticle 0001 - 计算机网络参考模型](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0001.md)
+1. [Article 0001 - 计算机网络参考模型](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0001.md)
 
 ## 博客简述
 * 本博客用于整理计算机网络技术相关资料、笔记，欢迎各界人士参与编写(通过Pull Requst即可参与)
