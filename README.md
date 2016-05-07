@@ -14,6 +14,7 @@
 3. [Article 0005 - 浅谈数据链路层01](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0005.md)
 4. [Article 0007 - 浅谈数据链路层02](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0007.md)
 5. [Article 0009 - 今天不谈协议--谈谈实践之DNS服务器搭建](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0009.md)
+6. [Article 000B - 基本数据链路层协议](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/000B.md)
 
 ## 博客简述
 * 本博客用于整理计算机网络技术相关资料、笔记，欢迎各界人士参与编写(通过Pull Requst即可参与)
