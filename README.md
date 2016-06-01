@@ -10,6 +10,7 @@
 7. [Article 000C - 应用层之POP3协议](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/000C.md)
 8. [Article 000E - 应用层之IMAP协议](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/000E.md)
 9. [Article 0010 - 应用层之DNS](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0010.md)
+10. [Article 0012 - 应用层之SOAP](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0012.md)
 
 ####Samray分目录
 1. [Article 0001 - 计算机网络参考模型](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0001.md)
