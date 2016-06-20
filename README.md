@@ -26,6 +26,7 @@
 9. [Article 0011 - 浅谈数据链路层06之多路访问协议](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0011.md)
 10. [Article 0013 - 浅谈网络层01之认识网络层](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0013.md)
 11. [Article 0015 - 浅谈网络层02之路由算法](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0015.md)
+12. [Article 0017 - 浅谈网络层03之路由算法](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0017.md)
 
 ## 博客简述
 * 本博客用于整理计算机网络技术相关资料、笔记，欢迎各界人士参与编写(通过Pull Requst即可参与)
