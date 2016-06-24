@@ -13,6 +13,7 @@
 10. [Article 0012 - 应用层之SOAP](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0012.md)
 11. [Article 0014 - 应用层之FTP](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0014.md)
 12. [Article 0016 - 应用层之Telent](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0016.md)
+13. [Article 0018 - 应用层之XMPP](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0018.md)
 
 ####Samray分目录
 1. [Article 0001 - 计算机网络参考模型](https://github.com/SeaHub/BlogOfComputerNetwork/blob/master/link/0001.md)
